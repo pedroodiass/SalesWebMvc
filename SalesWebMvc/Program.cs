@@ -15,7 +15,6 @@ namespace SalesWebMvc
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
-            //olá mundão
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
